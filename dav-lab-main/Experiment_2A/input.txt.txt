@@ -1,0 +1,12 @@
+No external input is required.
+
+The program demonstrates:
+
+• Creation of NumPy arrays
+• Indexing and slicing
+• Arithmetic operations
+• Aggregation functions
+• Boolean masking
+• Fancy indexing
+• Reshaping arrays
+• Structured arrays

@@ -1,0 +1,31 @@
+CSV Data:
+
+App                                    Category        Rating
+Photo Editor & Candy Camera            ART_AND_DESIGN   4.1
+Coloring book moana                    ART_AND_DESIGN   3.9
+U Launcher Lite                        ART_AND_DESIGN   4.7
+Sketch - Draw & Paint                  ART_AND_DESIGN   4.5
+Pixel Draw                             ART_AND_DESIGN   4.3
+
+Excel Data:
+
+Product        Price    Quantity
+Laptop         1000     5
+Smartphone      800     8
+Tablet          500     10
+Headphones      100     15
+
+Web Data:
+
+Country         Region
+Algeria         AFRICA
+Angola          AFRICA
+Benin           AFRICA
+Botswana        AFRICA
+Burkina         AFRICA
+
+FutureWarning:
+DataFrame.fillna with 'method' is deprecated.
+Use obj.ffill() or obj.bfill() instead.
+
+Processed files saved successfully.

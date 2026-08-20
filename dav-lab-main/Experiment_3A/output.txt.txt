@@ -1,0 +1,46 @@
+UCI Diabetes Dataset Sample:
+
+Glucose  BloodPressure  SkinThickness  Insulin   BMI
+90       72             16             264      22.27
+162      61             34             143      41.81
+184      76             25             128      36.30
+119      83             20             230      27.25
+175      101            30              63      41.49
+
+Pima Indians Diabetes Dataset Sample:
+
+Glucose  BloodPressure  SkinThickness  Insulin   BMI
+81       97             15             289      27.06
+172      50             24             229      18.58
+90       84             40             136      32.96
+187      94             30             288      38.21
+133      94             46              23      37.23
+
+UCI Diabetes Dataset Statistics
+
+                         Mean    Median    Mode
+Glucose                137.36    145.00    111
+BloodPressure           82.92     82.50     63
+SkinThickness           29.19     30.00     39
+Insulin                146.48    142.00    290
+BMI                     30.99     30.29   18.53
+DiabetesPedigreeFunction 1.36      1.24    0.10
+Age                     52.86     58.00     70
+
+Pima Indians Diabetes Dataset Statistics
+
+                         Mean    Median    Mode
+Glucose                136.62    135.00    122
+BloodPressure           81.99     82.50     52
+SkinThickness           29.76     30.50     17
+Insulin                148.09    152.00    168
+BMI                     32.48     32.63   18.59
+DiabetesPedigreeFunction 1.24      1.21    0.12
+Age                     50.46     50.50     26
+
+Additional Statistics Generated:
+
+• Variance
+• Standard Deviation
+• Skewness
+• Kurtosis

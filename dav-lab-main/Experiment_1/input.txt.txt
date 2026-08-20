@@ -1,0 +1,15 @@
+Command Prompt
+
+pip install numpy scipy jupyter statsmodels pandas matplotlib seaborn plotly bokeh
+
+Run the Python program to verify the installation of the following libraries:
+
+• NumPy
+• SciPy
+• Pandas
+• Matplotlib
+• Seaborn
+• Plotly
+• Bokeh
+• Statsmodels
+• JupyterLab

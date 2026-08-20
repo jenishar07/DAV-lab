@@ -1,0 +1,26 @@
+Input Dataset:
+
+iris_dataset(2d).csv
+
+Dataset Details:
+
+• 150 Iris flower samples
+• 4 numerical features
+    - Sepal Length
+    - Sepal Width
+    - Petal Length
+    - Petal Width
+• 3 Species
+    - Setosa
+    - Versicolor
+    - Virginica
+
+Operations Performed:
+
+1. Load Iris dataset
+2. Display dataset information
+3. Generate summary statistics
+4. Count species
+5. Plot histograms
+6. Create boxplot
+7. Generate pairplot

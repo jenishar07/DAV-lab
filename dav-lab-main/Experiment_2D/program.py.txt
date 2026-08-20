@@ -1,0 +1,32 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Load dataset
+df = pd.read_csv('iris_dataset(2d).csv')
+
+# Display basic information
+print("Basic Information:")
+print(df.info())
+
+# Summary statistics
+print("\nSummary Statistics:")
+print(df.describe())
+
+# Species count
+print("\nSpecies Count:")
+print(df['species'].value_counts())
+
+# Histogram
+df.hist(figsize=(8, 6), edgecolor='black')
+plt.suptitle('Feature Distributions')
+plt.show()
+
+# Boxplot
+sns.boxplot(data=df, x='species', y='sepal length (cm)')
+plt.title('Sepal Length Comparison')
+plt.show()
+
+# Pairplot
+sns.pairplot(df, hue='species')
+plt.show()

@@ -1,0 +1,36 @@
+Dataset: data.csv
+
+The dataset contains application details with columns such as:
+
+• App
+• Category
+• Rating
+• Reviews
+• Size
+• Installs
+• Type
+• Price
+• Content Rating
+• Genres
+• Last Updated
+• Current Ver
+• Android Ver
+
+Operations performed:
+
+1. Load dataset
+2. Display first and last 5 rows
+3. Check data types
+4. Display summary statistics
+5. Handle missing values
+6. Create a new column
+7. Perform Series operations
+8. Filter records
+9. Group and aggregate data
+10. Sort records
+11. Apply Boolean masking
+12. Remove duplicates
+13. Drop missing values
+14. Create subset DataFrame
+15. Save filtered data
+16. Calculate sum, mean and standard deviation

@@ -1,0 +1,24 @@
+Input Files:
+
+1. uci_diabetes.csv
+2. pima_diabetes.csv
+
+Numerical Columns Used:
+
+• Glucose
+• BloodPressure
+• SkinThickness
+• Insulin
+• BMI
+• DiabetesPedigreeFunction
+• Age
+
+Statistical Measures Computed:
+
+1. Mean
+2. Median
+3. Mode
+4. Variance
+5. Standard Deviation
+6. Skewness
+7. Kurtosis

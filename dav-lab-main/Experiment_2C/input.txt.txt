@@ -1,0 +1,14 @@
+Input Files:
+
+1. Google_data (2b.c1).csv
+2. data (2c2).xlsx (Sheet1)
+3. https://raw.githubusercontent.com/cs109/2014_data/master/countries.csv
+
+Operations Performed:
+
+• Read data from CSV file
+• Read data from Excel file
+• Read data from Web URL
+• Display first five rows
+• Handle missing values
+• Save processed data into new files
